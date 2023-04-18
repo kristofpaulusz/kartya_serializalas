@@ -15,7 +15,7 @@ public class Mentesek {
 
     ArrayList<Kartya> kartyak = new ArrayList<>();
     public static void main(String[] args) {
-        new Mentesek().feladat();
+//        new Mentesek().feladat();
     }
 
     private void feladat() {

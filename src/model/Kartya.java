@@ -10,5 +10,13 @@ public class Kartya implements Serializable {
         this.kerdes = kerdes;
         this.valasz = valasz;
     }
+
+    public String getKerdes() {
+        return kerdes;
+    }
+
+    public String getValasz() {
+        return valasz;
+    }
 }
 
